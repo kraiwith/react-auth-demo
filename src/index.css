@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  background-color: #232323;
+  color: #eeeeee;
+}
+
+input {
+  background-color: #232323;
+  color: #eeeeee;
+  border: 1px solid #eeeeee;
+  border-radius: 4px;
+}
+
+input::placeholder {
+  color: #eeeeee7c;
+}

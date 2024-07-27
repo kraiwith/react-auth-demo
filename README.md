@@ -1,3 +1,7 @@
+# Introduce
+
+This project is created as a demo template for a back-office or dashboard interface.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
